@@ -1,8 +1,8 @@
 {
-  "name": "Advancio Hack Day",
+  "name": "advancio-hack-day",
   "version": "1.0.0",
   "description": "Advancio Hack Day",
-  "main": "advhackday.js",
+  "main": "AdvancioHackDay.js",
   "dependencies": {
     "gulp": "^3.9.1",
     "typescript": "^2.0.3",
